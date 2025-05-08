@@ -1,0 +1,14 @@
+crewai
+groq
+python-dotenv
+streamlit
+pandas
+numpy
+scikit-learn
+openai
+google-generativeai
+tqdm
+langchain
+fastapi
+uvicorn[standard]
+pydantic
